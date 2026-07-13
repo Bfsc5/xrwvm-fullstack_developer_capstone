@@ -34,7 +34,7 @@ ALLOWED_HOSTS = [
     "localhost",
     (
         "https://stevencruz5-8000."
-        "theiadockernext-1-"
+        "theiadockernext-0-"
         "labs-prod-theiak8s-4-"
         "tor01.proxy."
         "cognitiveclass.ai"
@@ -44,7 +44,7 @@ ALLOWED_HOSTS = [
 CSRF_TRUSTED_ORIGINS = [
     (
         "https://stevencruz5-8000."
-        "theiadockernext-1-"
+        "theiadockernext-0-"
         "labs-prod-theiak8s-4-"
         "tor01.proxy."
         "cognitiveclass.ai"
